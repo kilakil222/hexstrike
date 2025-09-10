@@ -38,6 +38,7 @@ pip install -r requirements.txt
 ```bash
 python3 hexstrike_server.py
 ```
+<img width="952" height="724" alt="изображение" src="https://github.com/user-attachments/assets/8505f63b-f873-4da8-9008-22ab358ed388" />
 
 ## 5. Установка Cursor
 ```bash
@@ -49,6 +50,7 @@ https://cursor.com/downloads
 
 <img width="1016" height="496" alt="изображение" src="https://github.com/user-attachments/assets/dd2173a7-6069-4c68-8c40-9daa57030c50" />
 
+<img width="1071" height="402" alt="изображение" src="https://github.com/user-attachments/assets/c5373e1a-b65d-408a-98ef-05a4155f0bb7" />
 
 ```bash
 {
